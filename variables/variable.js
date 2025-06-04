@@ -8,8 +8,8 @@
 
 //Avec l’instruction alert(….) , tu afficheras "Résultat soustraction années à travailler avant la retraite ! Courage ! En développant ce sera plus fun ! ".
 
-const nom = "Eponon"
-const prénom = "Ursula"
+let nom = "Eponon";
+let prénom = "Ursula";
 alert("Bonjour," + nom+" "+ prénom)
 const retraite = 64;
 let age = 28;
